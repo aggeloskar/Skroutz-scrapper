@@ -1,4 +1,4 @@
-# Skroutz-scrapper
+# skroutz-scraper
 Searches skroutz.gr and returns the cheapest price.
 
 ## Usage
