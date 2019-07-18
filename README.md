@@ -1,6 +1,9 @@
 # skroutz-scraper
 Searches skroutz.gr and returns the cheapest price.
 
+## Requirements
+`pip install requests bs4`
+
 ## Usage
 Search your product and get the cheapest price.
 Example searches 
